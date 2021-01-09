@@ -1,0 +1,3 @@
+[submodule "bitbucket_sample"]
+	path = bitbucket_sample
+	url = https://kv_karthik@bitbucket.org/kv_karthik/sample.git
